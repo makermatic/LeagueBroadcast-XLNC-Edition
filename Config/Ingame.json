@@ -154,7 +154,7 @@
             },
             "Drakes": {
                 "Position": {
-                    "X": -450.0,
+                    "X": -407.0,
                     "Y": 103.0
                 },
                 "Offset": {
@@ -294,7 +294,7 @@
             },
             "Drakes": {
                 "Position": {
-                    "X": 15.0,
+                    "X": 23.0,
                     "Y": 103.0
                 },
                 "Offset": {
@@ -461,7 +461,7 @@
     },
     "ItemComplete": {
         "UseCustomVideo": false,
-        "ShowgiName": true,
+        "ShowItemName": false,
         "ShowOnScoreboard": false,
         "ShowOnChampionIndicator": true,
         "InfoText": {
@@ -918,10 +918,10 @@
             "Y": 235.0
         },
         "Background": {
-            "UseImage": true,
+            "UseImage": false,
             "UseVideo": false,
-            "UseAlpha": true,
-            "FallbackColor": "rgba(0,0,0,0)"
+            "UseAlpha": false,
+            "FallbackColor": "rgba(19,24,63,255)"
         },
         "Title": {
             "Enabled": true,

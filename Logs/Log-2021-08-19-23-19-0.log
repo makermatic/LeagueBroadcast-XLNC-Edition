@@ -1,9 +1,9 @@
-[22-51-22] Logging Init
-[22-51-22] Starting Config Controller
-[22-51-22] Config Provider started
-[22-51-22] Looking for config files at /Config
-[22-51-22] Found PickBan.json. Reading values
-[22-51-22] {
+[23-19-37] Logging Init
+[23-19-37] Starting Config Controller
+[23-19-37] Config Provider started
+[23-19-37] Looking for config files at /Config
+[23-19-37] Found PickBan.json. Reading values
+[23-19-37] {
   "frontend": {
     "scoreEnabled": true,
     "spellsEnabled": true,
@@ -26,9 +26,9 @@
   },
   "FileVersion": "1.0"
 }
-[22-51-22] Config PickBan loaded
-[22-51-22] Found Ingame.json. Reading values
-[22-51-22] {
+[23-19-37] Config PickBan loaded
+[23-19-37] Found Ingame.json. Reading values
+[23-19-37] {
   "Inhib": {
     "Position": {
       "X": 0.0,
@@ -184,8 +184,8 @@
       },
       "Drakes": {
         "Position": {
-          "X": -450.0,
-          "Y": 95.0
+          "X": -407.0,
+          "Y": 103.0
         },
         "Offset": {
           "X": -12.0,
@@ -324,8 +324,8 @@
       },
       "Drakes": {
         "Position": {
-          "X": 15.0,
-          "Y": 95.0
+          "X": 23.0,
+          "Y": 103.0
         },
         "Offset": {
           "X": 12.0,
@@ -407,8 +407,8 @@
         "Y": 40.0
       },
       "DrakeIconSize": {
-        "X": 15.0,
-        "Y": 15.0
+        "X": 30.0,
+        "Y": 30.0
       }
     }
   },
@@ -491,7 +491,7 @@
   },
   "ItemComplete": {
     "UseCustomVideo": false,
-    "ShowItemName": true,
+    "ShowItemName": false,
     "ShowOnScoreboard": false,
     "ShowOnChampionIndicator": true,
     "InfoText": {
@@ -955,7 +955,7 @@
     "Background": {
       "UseImage": true,
       "UseVideo": false,
-      "UseAlpha": true,
+      "UseAlpha": false,
       "FallbackColor": "rgba(0,0,0,0)"
     },
     "Title": {
@@ -1119,9 +1119,9 @@
   ],
   "FileVersion": "2.2"
 }
-[22-51-22] Config Ingame loaded
-[22-51-22] Found Component.json. Reading values
-[22-51-22] {
+[23-19-37] Config Ingame loaded
+[23-19-37] Found Component.json. Reading values
+[23-19-37] {
   "DataDragon": {
     "MinimumGoldCost": 2000,
     "Region": "euw",
@@ -1182,268 +1182,88 @@
   },
   "FileVersion": "1.3"
 }
-[22-51-22] Config Component loaded
-[22-51-22] Loading config watchers
-[22-51-22] Watching PickBan.json for changes
-[22-51-22] Watching Component.json for changes
-[22-51-22] Watching Ingame.json for changes
-[22-51-22] Log Level set to Info
-[22-51-22] League Broadcast Version 1.4.65
-[22-51-22] [Update] Checking for Updates
-[22-51-23] [Update] Latest release version v1.4.65 vs. current version 1.4.65
-[22-51-23] [Update] Local version up to date
-[22-51-23] Using current Version
-[22-51-23] Early Init Complete in 1013.1239ms
-[22-51-23] DataDragon Provider Init
-[22-51-23] Getting latest versions from dataDragon
-[22-51-23] Retrieving latest patch info
-[22-51-23] Champion: 11.16.1, Item: 11.16.1, CDN: https://ddragon.leagueoflegends.com/cdn
-[22-51-23] Loaded 156 champions
-[22-51-23] Loaded 15 summoner spells
-[22-51-23] Detected 199 items
-[22-51-23] Loaded 94 full items
-[22-51-23] Checking Local Cache
-[22-51-23] Cache C:\Users\Gamer\Documents\XLNC\LeagueBroadcast-1.4.65 XLNC Edition/Cache/11.16.1 exists already
-[22-51-23] DDragon loaded
-[22-51-23] Loading PickBan Controller
-[22-51-23] Loading Ingame Controller
-[22-51-23] Checking League install for LiveEventsAPI
-[22-51-23] Found League install location
-[22-51-23] LiveEvents API found in Game config
-[22-51-23] [WARNING] Could not parse game config. Replay API may not be enabled!
-[22-51-23] Verifying LiveEvents list
-[22-51-24] Loading Replay Controller
-[22-51-24] Loading Farsight
-[22-51-24] Farsight loaded. Found 156 Champ names
-[22-51-24] Loading Frontend Webserver (HTTP/WS)
-[22-51-24] Server file system starting
-[22-51-24] WebServer New State - Loading
-[22-51-24] WebServer New State - Listening
-[22-51-24] WebServer running on http://*:9001/
-[22-51-24] Whats that ticking noise?
-[22-51-24] Init Complete in 0.863s
-[22-51-24] Opening main window
-[22-51-24] Connection State Changed
-[22-51-24] New Client LjNGqpAnr0OK96drxR/Pvw connected from http://localhost:9001
-[22-51-24] Loading State Controller
-[22-51-24] Connecting to League Client
-[22-51-24] PickBan Enabled
-[22-51-24] Ingame Enabled
-[22-51-24] Using direct PickBan
-[22-51-24] Starting LeagueBroadcast with tickrate of 2tps
-[22-51-24] Checking for running Game
-[22-51-24] Target process (League of Legends) detected.
-[22-51-24] Init Game State
-[22-51-24] Game State reset
-[22-51-24] Connection State Changed
-[22-51-24] Post Init Complete in 354.5528ms
-[22-51-24] Total Startup time: 2.231s
-[22-51-24] Connected to League Client in 108 ms
-[22-51-24] Local Client Version 11.16.1
-[22-51-24] Loading offsets for current patch
-[22-51-24] Found Farsight.json. Reading values
-[22-51-24] Config Farsight loaded
-[22-51-24] Watching Farsight.json for changes
-[22-51-24] Using offsets 11.16.1
-[22-51-24] Game Loaded
-[22-51-24] Game Paused
-[22-51-24] LiveEventAPI Connected
-[22-51-25] Game Resumed
-[22-51-25] Init Team data
-[22-51-25] Init UI
-[22-51-25] [WARNING] Received invalid response from replay API. Is it enabled?
-[22-53-06] Player 9 lvl up
-[22-53-17] Player 7 finished Item 6693
-[22-53-39] Player 4 finished Item 3859
-[22-53-40] Mountain spawned
-[22-53-40] Player 1 finished Item 6653
-[22-53-47] Player 8 finished Item 6673
-[22-54-05] Player 2 finished Item 6692
-[22-54-36] Player 0 finished Item 6630
-[22-54-44] Mountain killed by CHAOS
-[22-54-56] Player 6 finished Item 3859
-[22-56-29] Player 1 lvl up
-[22-56-44] Herald spawned
-[22-56-53] Player 2 lvl up
-[22-57-25] Player 7 lvl up
-[22-57-45] Herald killed by ORDER
-[22-57-48] Player 9 finished Item 3853
-[22-58-33] Player 9 finished Item 2065
-[22-58-37] Player 0 lvl up
-[22-59-07] Player 6 finished Item 6632
-[22-59-38] Cloud spawned
-[23-00-14] Cloud killed by ORDER
-[23-00-17] Player 4 finished Item 2065
-[23-00-18] Player 3 finished Item 6692
-[23-00-20] Player 0 finished Item 3074
-[23-00-31] Player 2 finished Item 3075
-[23-00-40] Player 1 finished Item 3157
-[23-00-53] Player 3 lvl up
-[23-01-00] Ingame.json change detected
-[23-01-01] Found Ingame.json. Reading values
-[23-01-01] Config Ingame loaded
-[23-01-05] Scrolled back in timeline, reverting state
-[23-01-05] 720.4336547851562
-[23-01-05] Rolling back Players
-[23-01-05] Rolling back Objectives
-[23-01-05] Elder dragon ended. Resetting baron status for all players
-[23-01-05] Baron ended. Resetting baron status for all players
-[23-01-05] Mountain spawned
-[23-01-05] Player 9 finished Item 3851
-[23-01-06] Player 0 finished Item 6630
-[23-01-13] Mountain killed by CHAOS
-[23-01-15] Client LjNGqpAnr0OK96drxR/Pvw disconnected
-[23-01-15] New Client Y2b4xwPl50Wky60Fwo+jGA connected from http://localhost:9001
-[23-01-25] Player 6 finished Item 3859
-[23-02-45] Ingame.json change detected
-[23-02-45] Found Ingame.json. Reading values
-[23-02-45] Config Ingame loaded
-[23-02-51] Ingame.json change detected
-[23-02-52] Found Ingame.json. Reading values
-[23-02-52] Config Ingame loaded
-[23-02-58] Player 1 lvl up
-[23-03-13] Herald spawned
-[23-03-22] Player 2 lvl up
-[23-03-33] Client Y2b4xwPl50Wky60Fwo+jGA disconnected
-[23-03-33] New Client jCKXanZ1bkK267lCzmElJw connected from http://localhost:9001
-[23-03-37] Scrolled back in timeline, reverting state
-[23-03-37] 722.2050170898438
-[23-03-37] Rolling back Players
-[23-03-37] Rolling back Objectives
-[23-03-37] Elder dragon ended. Resetting baron status for all players
-[23-03-37] Mountain spawned
-[23-03-44] Player 0 finished Item 6630
-[23-03-52] Mountain killed by CHAOS
-[23-04-04] Player 6 finished Item 3859
-[23-05-37] Player 1 lvl up
-[23-05-52] Herald spawned
-[23-06-01] Player 2 lvl up
-[23-06-15] Ingame.json change detected
-[23-06-15] Found Ingame.json. Reading values
-[23-06-15] Config Ingame loaded
-[23-06-21] Ingame.json change detected
-[23-06-22] Found Ingame.json. Reading values
-[23-06-22] Config Ingame loaded
-[23-06-26] Ingame.json change detected
-[23-06-27] Found Ingame.json. Reading values
-[23-06-27] Config Ingame loaded
-[23-06-28] Client jCKXanZ1bkK267lCzmElJw disconnected
-[23-06-29] New Client tOzJJRQaDUqe00umIxgyTQ connected from http://localhost:9001
-[23-06-34] Player 7 lvl up
-[23-06-42] Ingame.json change detected
-[23-06-43] Found Ingame.json. Reading values
-[23-06-43] Config Ingame loaded
-[23-06-53] Herald killed by ORDER
-[23-06-54] Ingame.json change detected
-[23-06-55] Found Ingame.json. Reading values
-[23-06-55] Config Ingame loaded
-[23-06-56] Player 9 finished Item 3853
-[23-06-57] Client tOzJJRQaDUqe00umIxgyTQ disconnected
-[23-06-57] New Client qWV4w41ktEaMTYoJnDCZPw connected from http://localhost:9001
-[23-07-01] Scrolled back in timeline, reverting state
-[23-07-01] 720.4463500976562
-[23-07-01] Rolling back Players
-[23-07-01] Rolling back Objectives
-[23-07-01] Elder dragon ended. Resetting baron status for all players
-[23-07-01] Baron ended. Resetting baron status for all players
-[23-07-01] Mountain spawned
-[23-07-01] Player 9 finished Item 3851
-[23-07-02] Player 0 finished Item 6630
-[23-07-09] Mountain killed by CHAOS
-[23-07-10] Baron spawned
-[23-07-10] Player 0 lvl up
-[23-07-10] Player 0 finished Item 3074
-[23-07-10] Player 1 lvl up
-[23-07-10] Player 1 finished Item 3089
-[23-07-10] Player 1 finished Item 3157
-[23-07-10] Player 2 lvl up
-[23-07-10] Player 2 finished Item 3075
-[23-07-10] Player 3 lvl up
-[23-07-10] Player 3 finished Item 3036
-[23-07-10] Player 3 finished Item 6692
-[23-07-10] Player 4 lvl up
-[23-07-10] Player 4 finished Item 2065
-[23-07-10] Player 4 finished Item 3860
-[23-07-10] Player 5 lvl up
-[23-07-10] Player 5 finished Item 3068
-[23-07-10] Player 6 finished Item 6632
-[23-07-10] Player 7 lvl up
-[23-07-10] Player 7 finished Item 6695
-[23-07-10] Player 8 lvl up
-[23-07-10] Player 8 finished Item 3508
-[23-07-10] Player 9 lvl up
-[23-07-10] Player 9 finished Item 3853
-[23-07-10] Player 9 finished Item 2065
-[23-07-15] Scrolled back in timeline, reverting state
-[23-07-15] 1140.5426025390625
-[23-07-15] Rolling back Players
-[23-07-15] Rolling back Objectives
-[23-07-15] Elder dragon ended. Resetting baron status for all players
-[23-07-15] Baron ended. Resetting baron status for all players
-[23-07-16] Player 4 finished Item 3859
-[23-07-19] Scrolled back in timeline, reverting state
-[23-07-19] 728.2015380859375
-[23-07-19] Rolling back Players
-[23-07-19] Rolling back Objectives
-[23-07-19] Elder dragon ended. Resetting baron status for all players
-[23-07-19] Baron ended. Resetting baron status for all players
-[23-07-19] Mountain spawned
-[23-07-19] Player 9 finished Item 3851
-[23-07-24] Scrolled back in timeline, reverting state
-[23-07-24] 726.4249877929688
-[23-07-24] Rolling back Players
-[23-07-24] Rolling back Objectives
-[23-07-25] Player 0 finished Item 6630
-[23-07-29] Mountain killed by CHAOS
-[23-07-31] Game Paused
-[23-09-39] Ingame.json change detected
-[23-09-39] Found Ingame.json. Reading values
-[23-09-39] Config Ingame loaded
-[23-10-05] Ingame.json change detected
-[23-10-06] Found Ingame.json. Reading values
-[23-10-06] Config Ingame loaded
-[23-10-07] Client qWV4w41ktEaMTYoJnDCZPw disconnected
-[23-10-07] New Client s5wl6sHyOEW62o73YYc0Ag connected from http://localhost:9001
-[23-10-17] Game Resumed
-[23-10-17] Scrolled back in timeline, reverting state
-[23-10-17] 720.4281616210938
-[23-10-17] Rolling back Players
-[23-10-17] Rolling back Objectives
-[23-10-20] Scrolled back in timeline, reverting state
-[23-10-20] 720.41845703125
-[23-10-20] Rolling back Players
-[23-10-20] Rolling back Objectives
-[23-10-22] Player 0 finished Item 6630
-[23-10-29] Mountain killed by CHAOS
-[23-10-41] Player 6 finished Item 3859
-[23-11-21] Ingame.json change detected
-[23-11-21] Found Ingame.json. Reading values
-[23-11-21] Config Ingame loaded
-[23-11-34] Ingame.json change detected
-[23-11-34] Found Ingame.json. Reading values
-[23-11-34] Config Ingame loaded
-[23-11-36] Client s5wl6sHyOEW62o73YYc0Ag disconnected
-[23-11-36] New Client Q84fDZ9Na02U45qK671asg connected from http://localhost:9001
-[23-11-38] Scrolled back in timeline, reverting state
-[23-11-38] 720.4307250976562
-[23-11-38] Rolling back Players
-[23-11-38] Rolling back Objectives
-[23-11-38] Mountain spawned
-[23-11-46] Player 0 finished Item 6630
-[23-11-53] Mountain killed by CHAOS
-[23-12-05] Player 6 finished Item 3859
-[23-12-52] Ingame.json change detected
-[23-12-53] Found Ingame.json. Reading values
-[23-12-53] Config Ingame loaded
-[23-12-54] Client Q84fDZ9Na02U45qK671asg disconnected
-[23-12-55] New Client TmK6vb0n0Eq9n3o6iRIr2g connected from http://localhost:9001
-[23-13-01] Saving all configs to file
-[23-13-01] Writing PickBan config to file
-[23-13-01] Updated PickBan config file
-[23-13-01] Writing Component config to file
-[23-13-01] Updated Component config file
-[23-13-01] Writing Farsight config to file
-[23-13-01] Updated Farsight config file
-[23-13-01] Writing Ingame config to file
-[23-13-01] Updated Ingame config file
-[23-13-01] Configs saved
+[23-19-37] Config Component loaded
+[23-19-37] Loading config watchers
+[23-19-37] Watching PickBan.json for changes
+[23-19-37] Watching Component.json for changes
+[23-19-37] Watching Ingame.json for changes
+[23-19-37] Log Level set to Info
+[23-19-37] League Broadcast Version 1.4.65
+[23-19-37] [Update] Checking for Updates
+[23-19-37] [Update] Latest release version v1.4.65 vs. current version 1.4.65
+[23-19-37] [Update] Local version up to date
+[23-19-37] Using current Version
+[23-19-37] Early Init Complete in 1032.336ms
+[23-19-37] DataDragon Provider Init
+[23-19-37] Getting latest versions from dataDragon
+[23-19-37] Retrieving latest patch info
+[23-19-38] Champion: 11.16.1, Item: 11.16.1, CDN: https://ddragon.leagueoflegends.com/cdn
+[23-19-38] Loaded 156 champions
+[23-19-39] Loaded 15 summoner spells
+[23-19-39] Detected 199 items
+[23-19-39] Loaded 94 full items
+[23-19-39] Checking Local Cache
+[23-19-39] Cache C:\Users\Gamer\Documents\XLNC\LeagueBroadcast-1.4.65 XLNC Edition/Cache/11.16.1 exists already
+[23-19-39] DDragon loaded
+[23-19-39] Loading PickBan Controller
+[23-19-39] Loading Ingame Controller
+[23-19-39] Checking League install for LiveEventsAPI
+[23-19-39] Found League install location
+[23-19-39] LiveEvents API found in Game config
+[23-19-39] [WARNING] Could not parse game config. Replay API may not be enabled!
+[23-19-39] Verifying LiveEvents list
+[23-19-39] Loading Replay Controller
+[23-19-39] Loading Farsight
+[23-19-39] Farsight loaded. Found 156 Champ names
+[23-19-39] Loading Frontend Webserver (HTTP/WS)
+[23-19-39] Server file system starting
+[23-19-39] WebServer New State - Loading
+[23-19-39] WebServer New State - Listening
+[23-19-39] WebServer running on http://*:9001/
+[23-19-39] Whats that ticking noise?
+[23-19-39] Init Complete in 1.954s
+[23-19-39] Opening main window
+[23-19-39] Connection State Changed
+[23-19-40] New Client x8hz4fEqzkymRs1l0Vq/3w connected from http://localhost:9001
+[23-19-40] Loading State Controller
+[23-19-40] Connecting to League Client
+[23-19-40] PickBan Enabled
+[23-19-40] Ingame Enabled
+[23-19-40] Using direct PickBan
+[23-19-40] Starting LeagueBroadcast with tickrate of 2tps
+[23-19-40] Checking for running Game
+[23-19-40] Target process (League of Legends) detected.
+[23-19-40] Init Game State
+[23-19-40] Game State reset
+[23-19-40] Connection State Changed
+[23-19-40] Post Init Complete in 398.7091ms
+[23-19-40] Total Startup time: 3.385s
+[23-19-40] Connected to League Client in 112 ms
+[23-19-40] Local Client Version 11.16.1
+[23-19-40] Loading offsets for current patch
+[23-19-40] Found Farsight.json. Reading values
+[23-19-40] Config Farsight loaded
+[23-19-40] Watching Farsight.json for changes
+[23-19-40] Using offsets 11.16.1
+[23-19-40] Game Loaded
+[23-19-40] Game Paused
+[23-19-40] LiveEventAPI Connected
+[23-19-41] Game Resumed
+[23-19-41] Baron spawned
+[23-19-41] Init Team data
+[23-19-41] Init UI
+[23-19-41] [WARNING] Received invalid response from replay API. Is it enabled?
+[23-19-53] Elder spawned
+[23-20-26] Client x8hz4fEqzkymRs1l0Vq/3w disconnected
+[23-20-27] New Client 9YD1TJby2UGs4YCIlmf1iw connected from http://localhost:9001
+[23-20-36] Elder killed by CHAOS
+[23-20-52] Player 7 finished Item 3116
+[23-20-54] Ingame.json change detected
+[23-20-55] Found Ingame.json. Reading values
+[23-20-55] Config Ingame loaded
+[23-21-02] Player 6 finished Item 3053
+[23-21-46] Ingame.json change detected
+[23-21-47] Found Ingame.json. Reading values
+[23-21-47] Config Ingame loaded
+[23-21-49] Client 9YD1TJby2UGs4YCIlmf1iw disconnected
+[23-21-49] New Client 34nSVulgpEOCeKsHJJ3o0A connected from http://localhost:9001
