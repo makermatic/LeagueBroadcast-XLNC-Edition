@@ -465,9 +465,9 @@
         "ShowOnScoreboard": false,
         "ShowOnChampionIndicator": true,
         "InfoText": {
-            "Style": "Normal",
-            "Name": "News Cycle",
-            "Size": "20px",
+            "Style": "Bold",
+            "Name": "Myriad Pro",
+            "Size": "25px",
             "Align": "center",
             "Color": "rgb(255,255,255)"
         },
@@ -706,8 +706,8 @@
                 }
             },
             "Font": {
-                "Style": "Normal",
-                "Name": "News Cycle",
+                "Style": "Bold",
+                "Name": "Myriad Pro",
                 "Size": "26px",
                 "Align": "center",
                 "Color": "rgb(255,255,255)"
@@ -781,8 +781,8 @@
                     }
                 },
                 "Font": {
-                    "Style": "Normal",
-                    "Name": "News Cycle",
+                    "Style": "Bold",
+                    "Name": "Myriad Pro",
                     "Size": "15px",
                     "Align": "left",
                     "Color": "rgb(255,255,255)"
@@ -806,7 +806,7 @@
                 },
                 "Font": {
                     "Style": "Normal",
-                    "Name": "News Cycle",
+                    "Name": "Myriad Pro",
                     "Size": "15px",
                     "Align": "left",
                     "Color": "rgb(255,255,255)"
@@ -829,9 +829,9 @@
                     }
                 },
                 "Font": {
-                    "Style": "Normal",
-                    "Name": "News Cycle",
-                    "Size": "25px",
+                    "Style": "Bold",
+                    "Name": "Myriad Pro",
+                    "Size": "23px",
                     "Align": "center",
                     "Color": "rgb(255,255,255)"
                 }
@@ -854,7 +854,7 @@
                 },
                 "Font": {
                     "Style": "Normal",
-                    "Name": "News Cycle",
+                    "Name": "Myriad Pro",
                     "Size": "15px",
                     "Align": "right",
                     "Color": "rgb(255,255,255)"
@@ -900,8 +900,8 @@
         "Background": {
             "UseImage": false,
             "UseVideo": false,
-            "UseAlpha": true,
-            "FallbackColor": "rgb(19, 24, 63)",
+            "UseAlpha": false,
+            "FallbackColor": "rgb(0, 17, 30)",
             "Size": {
                 "X": 300.0,
                 "Y": 600.0
