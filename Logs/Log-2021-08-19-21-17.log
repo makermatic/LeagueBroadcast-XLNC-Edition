@@ -1,0 +1,113 @@
+[21-17-53] Logging Init
+[21-17-53] Starting Config Controller
+[21-17-53] Config Provider started
+[21-17-53] Looking for config files at /Config
+[21-17-53] Init Config Folder
+[21-17-53] Init Teams Folder
+[21-17-53] Config PickBan not found. Restoring default config
+[21-17-53] Writing PickBan config to file
+[21-17-53] Updated PickBan config file
+[21-17-53] Config Ingame not found. Restoring default config
+[21-17-53] Writing Ingame config to file
+[21-17-53] Updated Ingame config file
+[21-17-53] Config Component not found. Restoring default config
+[21-17-53] Writing Component config to file
+[21-17-53] Updated Component config file
+[21-17-53] Loading config watchers
+[21-17-53] Watching PickBan.json for changes
+[21-17-53] Watching Component.json for changes
+[21-17-53] Watching Ingame.json for changes
+[21-17-53] Log Level set to Info
+[21-17-53] League Broadcast Version 1.4.65
+[21-17-53] [Update] Checking for Updates
+[21-17-53] [Update] Latest release version v1.4.65 vs. current version 1.4.65
+[21-17-53] [Update] Local version up to date
+[21-17-53] Using current Version
+[21-17-53] Early Init Complete in 999.4904ms
+[21-17-53] DataDragon Provider Init
+[21-17-53] Getting latest versions from dataDragon
+[21-17-53] Retrieving latest patch info
+[21-17-53] New patch 11.16.1 detected
+[21-17-53] Writing PickBan config to file
+[21-17-53] Updated PickBan config file
+[21-17-53] PickBan.json change detected
+[21-17-53] Champion: 11.16.1, Item: 11.16.1, CDN: https://ddragon.leagueoflegends.com/cdn
+[21-17-54] Loaded 156 champions
+[21-17-54] Loaded 15 summoner spells
+[21-17-54] Detected 199 items
+[21-17-54] Loaded 94 full items
+[21-17-54] Checking Local Cache
+[21-17-54] Current Patch cache not detected, removing old Patch data
+[21-17-54] Starting download process. This could take a while
+[21-17-54] Downloading Item Cache of 94 images
+[21-17-54] Downloading Champion Cache of 624 images
+[21-17-54] Downloading Summoner Spell Cache of 15 images
+[21-17-54] Downloading 0 assets from datadragon!
+[21-17-59] DataDragon download finished
+[21-17-59] DDragon loaded
+[21-17-59] Loading PickBan Controller
+[21-17-59] Loading Ingame Controller
+[21-17-59] Checking League install for LiveEventsAPI
+[21-17-59] Found League install location
+[21-17-59] LiveEvents API found in Game config
+[21-17-59] [WARNING] Could not parse game config. Replay API may not be enabled!
+[21-17-59] Verifying LiveEvents list
+[21-17-59] Loading Replay Controller
+[21-17-59] Loading Farsight
+[21-17-59] Farsight loaded. Found 156 Champ names
+[21-17-59] Loading Frontend Webserver (HTTP/WS)
+[21-17-59] Server file system starting
+[21-17-59] WebServer New State - Loading
+[21-17-59] WebServer New State - Listening
+[21-17-59] WebServer running on http://*:9001/
+[21-17-59] Whats that ticking noise?
+[21-17-59] Init Complete in 6.256s
+[21-17-59] Opening main window
+[21-17-59] Connection State Changed
+[21-18-00] New Client w6dBVTX7AEaITWvj94eLvQ connected from http://localhost:9001
+[21-18-00] Loading State Controller
+[21-18-00] Connecting to League Client
+[21-18-00] PickBan Enabled
+[21-18-00] Ingame Enabled
+[21-18-00] Using direct PickBan
+[21-18-00] Starting LeagueBroadcast with tickrate of 2tps
+[21-18-00] Checking for running Game
+[21-18-00] Target process (League of Legends) detected.
+[21-18-00] Init Game State
+[21-18-00] Game State reset
+[21-18-00] Connection State Changed
+[21-18-00] Post Init Complete in 390.0053ms
+[21-18-00] Total Startup time: 7.646s
+[21-18-00] Connected to League Client in 135 ms
+[21-18-00] Local Client Version 11.16.1
+[21-18-00] Loading offsets for current patch
+[21-18-00] Config Farsight not found. Restoring default config
+[21-18-00] Fetching new offsets from https://raw.githubusercontent.com/floh22/LeagueBroadcast/v2/Offsets/Offsets-11.16.1.json
+[21-18-00] Received updated offsets
+[21-18-00] Offsets found. Updating values for game version 11.16.1
+[21-18-00] Writing Farsight config to file
+[21-18-00] Updated Farsight config file
+[21-18-00] Watching Farsight.json for changes
+[21-18-00] Using offsets 11.16.1
+[21-18-00] Game Loaded
+[21-18-00] Game Paused
+[21-18-00] LiveEventAPI Connected
+[21-18-01] Game Resumed
+[21-18-01] Init Team data
+[21-18-01] Init UI
+[21-18-01] [WARNING] Received invalid response from replay API. Is it enabled?
+[21-18-20] Client w6dBVTX7AEaITWvj94eLvQ disconnected
+[21-18-20] New Client JeetloHTxUGodM2NCMbfqA connected from http://localhost:9001
+[21-18-34] New Client 2clvTZz1ak2a9lZpWcvigg connected from http://localhost:9001
+[21-18-41] Client 2clvTZz1ak2a9lZpWcvigg disconnected
+[21-18-45] Log Level set to Info
+[21-19-00] Saving all configs to file
+[21-19-00] Writing PickBan config to file
+[21-19-00] Updated PickBan config file
+[21-19-00] Writing Component config to file
+[21-19-00] Updated Component config file
+[21-19-00] Writing Farsight config to file
+[21-19-00] Updated Farsight config file
+[21-19-00] Writing Ingame config to file
+[21-19-00] Updated Ingame config file
+[21-19-00] Configs saved

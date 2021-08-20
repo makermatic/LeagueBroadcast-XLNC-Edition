@@ -1,0 +1,23 @@
+{
+  "frontend": {
+    "scoreEnabled": true,
+    "spellsEnabled": true,
+    "coachesEnabled": false,
+    "blueTeam": {
+      "name": "AOE Randoms",
+      "nameTag": "BIG CHONKS",
+      "score": 0,
+      "coach": "G2 Grabz",
+      "color": "rgb(66,133,244)"
+    },
+    "redTeam": {
+      "name": "LOTUS",
+      "nameTag": "LOTUS",
+      "score": 0,
+      "coach": "G2 Grabz",
+      "color": "rgb(234,67,53)"
+    },
+    "patch": "11.16.1"
+  },
+  "FileVersion": "1.0"
+}
