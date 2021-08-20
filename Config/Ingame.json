@@ -921,7 +921,7 @@
             "UseImage": false,
             "UseVideo": false,
             "UseAlpha": false,
-            "FallbackColor": "rgba(19,24,63,255)"
+            "FallbackColor": "rgba(0,7,18,255)"
         },
         "Title": {
             "Enabled": true,
@@ -931,10 +931,10 @@
             },
             "Font": {
                 "Style": "Bold",
-                "Name": "News Cycle",
-                "Size": "22px",
+                "Name": "Myriad Pro",
+                "Size": "25px",
                 "Align": "left",
-                "Color": "rgb(230,190,138)"
+                "Color": "rgb(255,255,255)"
             },
             "Text": "GOLD DIFFERENCE"
         },
@@ -963,7 +963,7 @@
                 "Name": "News Cycle",
                 "Size": "UNUSED",
                 "Align": "UNUSED",
-                "Color": "rgb(230,190,138)"
+                "Color": "rgb(255,255,255)"
             },
             "TimeStepSize": 30,
             "ShowTimeStepIndicators": true
