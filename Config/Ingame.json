@@ -601,7 +601,7 @@
         "ShowOnChampionIndicator": true,
         "LevelFont": {
             "Style": "Normal",
-            "Name": "News Cycle",
+            "Name": "Myriad Pro",
             "Size": "60px",
             "Align": "center",
             "Color": "rgb(255,255,255)"
