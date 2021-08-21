@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "AOE Randoms",
+    "nameTag": "BIG CHONKS",
+    "score": 0,
+    "coach": "G2 Grabz",
+    "color": "rgb(66,133,244)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Default.png",
+  "FileVersion": "1.0"
+}
