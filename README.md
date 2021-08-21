@@ -6,7 +6,7 @@ This is a fork of LeagueBroadcast by Lars Eble. The front end and configs have b
 
 ## <u>First Time Setup</u>
 
-1. Download the source code by clicking the green code button and click "Download Zip."
+1. Download the app by clicking the green code button and click "Download Zip."
 2. Extract the folder to a reasonable location (ex. `documents/xlnc`).
 3. In the folder, open the `Fonts` folder and install all four fonts.
 4. Open `LeagueBroadcast.exe` and you're all set!
