@@ -18,7 +18,7 @@
     "UseLiveEvents": true,
     "DoLevelUp": true,
     "DoItemCompleted": true,
-    "SeriesGameCount": 3,
+    "SeriesGameCount": 5,
     "Objectives": {
       "DoBaronKill": true,
       "DoDragonKill": true,
