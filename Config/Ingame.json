@@ -198,8 +198,8 @@
             },
             "Score": {
                 "Position": {
-                    "X": -380.0,
-                    "Y": 70.0
+                    "X": -440.0,
+                    "Y": 43.0
                 },
                 "NumberFont": {
                     "Style": "Normal",
@@ -210,10 +210,10 @@
                 },
                 "UseCircleIcons": true,
                 "CircleOffset": {
-                    "X": 25.0,
-                    "Y": 0.0
+                    "X": 0.0,
+                    "Y": 20.0
                 },
-                "CircleRadius": 10.0,
+                "CircleRadius": 7.0,
                 "UseTeamColor": false,
                 "StrokeColor": "rgb(255,255,255)",
                 "FillColor": "rgb(255,255,255)"

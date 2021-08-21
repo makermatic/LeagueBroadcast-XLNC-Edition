@@ -23,8 +23,8 @@
       "DoBaronKill": true,
       "DoDragonKill": true,
       "DoInhibitors": false,
-      "DoObjectiveSpawnPopUp": false,
-      "DoObjectiveKillPopUp": false
+      "DoObjectiveSpawnPopUp": true,
+      "DoObjectiveKillPopUp": true
     },
     "Teams": {
       "DoTeamNames": true,
