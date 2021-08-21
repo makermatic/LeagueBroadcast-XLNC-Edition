@@ -29,7 +29,7 @@
     "Teams": {
       "DoTeamNames": true,
       "DoTeamIcons": true,
-      "DoTeamScores": false
+      "DoTeamScores": true
     },
     "UseCustomScoreboard": true
   },
