@@ -23,8 +23,8 @@
       "DoBaronKill": true,
       "DoDragonKill": true,
       "DoInhibitors": false,
-      "DoObjectiveSpawnPopUp": true,
-      "DoObjectiveKillPopUp": true
+      "DoObjectiveSpawnPopUp": false,
+      "DoObjectiveKillPopUp": false
     },
     "Teams": {
       "DoTeamNames": true,
@@ -35,7 +35,7 @@
   },
   "Replay": {
     "IsActive": true,
-    "UseAutoInitUI": true
+    "UseAutoInitUI": false
   },
   "PostGame": {
     "IsActive": false
