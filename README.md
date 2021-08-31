@@ -10,7 +10,7 @@ This is a fork of LeagueBroadcast by Lars Eble. The front end and configs have b
 
 ## <u>Match Setup</u>
 
-1. Before doing anything, make sure you prep your Team Logos are be **squared** (ex. 512 x 512 pixels).
+1. Before doing anything, make sure you prep your Team Logos to be **squared** (ex. 512 x 512 pixels).
 2. Open the League of Legends client, the circle on the top right should change to `Client Connected`.
 3. In the `Pick Ban` section, type in the Four Fields.
    1. `Team Name`
