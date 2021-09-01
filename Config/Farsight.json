@@ -1,7 +1,7 @@
 {
-  "GameVersion": "11.16.1",
+  "GameVersion": "11.17.1",
   "GameOffsets": {
-    "Manager": "0x172c9e4",
+    "Manager": "0x183e1a0",
     "MapCount": "0x2c",
     "MapRoot": "0x28",
     "MapNodeNetId": "0x10",
@@ -18,8 +18,8 @@
     "MaxHealth": "0xda8",
     "CurrentGold": "0x1b80",
     "GoldTotal": "0x1b90",
-    "EXP": "0x334c",
-    "Name": "0x2bbc",
+    "EXP": "0x3344",
+    "Name": "0x2bb4",
     "ItemList": "0x0",
     "SpellBook": "0x0",
     "ItemListItem": "0x0",
