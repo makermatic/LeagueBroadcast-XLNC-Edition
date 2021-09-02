@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "AOE HOPE",
+    "nameTag": "AOE HOPE",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(66,133,244)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\AOE Hope.png",
+  "FileVersion": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "4MOC",
+    "nameTag": "4MOC",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(234,67,53)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\Team 2.png",
+  "FileVersion": "1.0"
+}
