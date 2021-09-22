@@ -1,0 +1,11 @@
+{
+  "Config": {
+    "name": "DEGNERATES SPAWN",
+    "nameTag": "DEGENERATES SPAWN",
+    "score": 0,
+    "coach": "",
+    "color": "rgb(66,133,244)"
+  },
+  "IconLocation": "Cache\\TeamIcons\\DEGNERATES SPAWN.png",
+  "FileVersion": "1.0"
+}

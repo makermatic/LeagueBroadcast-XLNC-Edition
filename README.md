@@ -23,6 +23,7 @@ This is a fork of LeagueBroadcast by Lars Eble. The front end and configs have b
 ## <u>FAQs</u>
 
 - If the browser sources have empty links, what should I do?
+
   - Here you go: 
     - In Game: http://localhost:9001/frontend?backend=localhost
     
@@ -31,14 +32,14 @@ This is a fork of LeagueBroadcast by Lars Eble. The front end and configs have b
     - Just make sure that your sources are set to 1920x1080
     
       
-  
+
 - The app crashes every time I load into game. What did I do?
 
   - Just relaunch the app. If you have a stream deck, it's handy to make a button for the exe.
-
   - You didn't do anything wrong it's okay! :)
 
-    
+- I've downloaded Net Framework trillions of times and it's still not letting me open the app
+  - Download .NET Core 3.1 [here](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.413-windows-x64-installer)
 
 - The links are `localhost`, what does that even mean?
 
